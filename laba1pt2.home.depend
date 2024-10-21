@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728060685 source:c:\users\Администратор\source\лабы\laba1pt2.home\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
